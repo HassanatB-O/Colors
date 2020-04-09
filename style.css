@@ -1,0 +1,22 @@
+button
+{
+    border: none;
+    border-radius: 12px;
+    padding: 12px;
+    margin-top: 22%;
+    margin-left: 47%;
+}
+p
+{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 340px;
+}
+@media only screen and (max-width: 1000px)
+{
+   button
+   {
+       margin-top: 300px;
+       margin-left: 40%;
+   } 
+}
